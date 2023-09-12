@@ -3,6 +3,5 @@ numpy
 folium
 streamlit_folium  
 plotly
-warnings
 datetime 
 pydeck 
