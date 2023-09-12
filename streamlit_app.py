@@ -25,7 +25,7 @@ APP_TITLE = 'Sistema Inteligente para la Gestión del Agua'
 APP_SUB_TITLE = 'minaguas.gob.ve'
 
 #path_data_reg ='C://Users//Gateway//Desktop//Cursos Perozo 2023//SIG//proto_streamlite//SIGAv2//data_reg//'
-path_data_reg ='//data_reg//'
+path_data_reg ='./data_reg/'
 
 
 def display_map_cond_actuales_almacenamiento():
