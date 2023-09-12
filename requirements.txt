@@ -2,7 +2,7 @@ pandas
 numpy 
 folium
 streamlit_folium  
-plotly.express 
+plotly
 warnings
 datetime 
 pydeck 
